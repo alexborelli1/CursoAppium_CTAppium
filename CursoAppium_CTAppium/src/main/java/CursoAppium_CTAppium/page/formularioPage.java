@@ -1,6 +1,5 @@
 package CursoAppium_CTAppium.page;
 
-import org.junit.Assert;
 import org.openqa.selenium.By;
 
 import CursoAppium_CTAppium.core.DSL;
